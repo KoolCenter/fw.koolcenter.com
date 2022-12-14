@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>KoolCenter 固件下载服务器</title>
+  <link rel="stylesheet" href="http://fw.koolcenter.com/theme/bootstrap.min.css">
+  <link rel="stylesheet" href="http://fw.koolcenter.com/theme/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="http://fw.koolcenter.com/theme/theme.css">
+  <link rel="stylesheet" href="http://fw.koolcenter.com/theme/editormd.preview.min.css" />
+  <link data-n-head="ssr" rel="icon" type="image/x-icon" href="http://fw.koolcenter.com/theme/favicon.svg">
+  <script type="text/javascript" src="http://fw.koolcenter.com/theme/js/breadcrumbs.js"></script>
+  <script type="text/javascript" src="http://fw.koolcenter.com/theme/js/list.js"></script>
+</head>
+
+<body>
+  <div class="header">
+    <nav class="navbar sticky-top container">
+      <div class="navbar-brand">
+        <a href="http://fw.koolcenter.com/"><img style="vertical-align: text-top;" src="http://fw.koolcenter.com/theme/logo.svg"> 固件下载服务器</a>
+      </div>
+    </nav>
+  </div>
+  <div id="page-content" class="container">
+    <div class="alert alert-success" role="alert">
+    <span class="fa fa-bullhorn"></span>  最新发布的<b>官改/梅林改版固件</b>都会做隐藏处理，直到下个版本发布才会取消隐藏，最新固件请前往 <span class="glyphicon glyphicon-link"></span> <a target="_blank" href="https://www.koolcenter.com" class="alert-link">KoolCenter</a> 下载
+    </div>
+    <!--<div class="alert alert-success" role="alert">
+    <span class="fa fa-bullhorn"></span> 【20220307】梅林改版固件386.5_2已经发布，包含19款机型！新增网件RAX70支持！详情请前往：<a href="https://www.koolcenter.com/posts/130" target="_blank"><b> 梅林改版固件 386.5_2 发布 by koolcenter </b></a>
+    </div>
+    <div class="alert alert-success" role="alert">
+    <span class="fa fa-bullhorn"></span> 【20220308】华硕ROG GT-AX6000 红蜘蛛电竞路由官改固件发布了！现在有软件中心了！详情请前往：<a href="https://www.koolcenter.com/posts/125" target="_blank"><b> ROG GT-AX6000 华硕红蜘蛛官改固件 </b></a>
+    </div>-->
+ </div>
+  <div class="container">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb" id="breadcrumbs"/>
+    </nav>
+	<div id="layout">
+		<div id="markdown-view">
+		   <textarea style="display:none;" name="markdown-doc"></textarea>
+		</div>
+	</div>
+    <div class="row">
+      <div class="col">
+<table id="list"><thead><tr><th style="width:55%"><a href="http://fw.koolcenter.com/well-known-authors/KoolCenter_Merlin_Legacy_380/ASUS/RT-AC56U/X6.1/index.html?C=N&amp;O=A">File Name</a>&nbsp;<a href="http://fw.koolcenter.com/well-known-authors/KoolCenter_Merlin_Legacy_380/ASUS/RT-AC56U/X6.1/index.html?C=N&amp;O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:20%"><a href="http://fw.koolcenter.com/well-known-authors/KoolCenter_Merlin_Legacy_380/ASUS/RT-AC56U/X6.1/index.html?C=S&amp;O=A">File Size</a>&nbsp;<a href="http://fw.koolcenter.com/well-known-authors/KoolCenter_Merlin_Legacy_380/ASUS/RT-AC56U/X6.1/index.html?C=S&amp;O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:25%"><a href="http://fw.koolcenter.com/well-known-authors/KoolCenter_Merlin_Legacy_380/ASUS/RT-AC56U/X6.1/index.html?C=M&amp;O=A">Date</a>&nbsp;<a href="http://fw.koolcenter.com/well-known-authors/KoolCenter_Merlin_Legacy_380/ASUS/RT-AC56U/X6.1/index.html?C=M&amp;O=D">&nbsp;&darr;&nbsp;</a></th></tr></thead>
+<tbody><tr><td><a href="http://fw.koolcenter.com/well-known-authors/KoolCenter_Merlin_Legacy_380/ASUS/RT-AC56U/index.html?C=S&amp;O=A">Parent directory/</a></td><td>-</td><td>-</td></tr><tr><td><a href="md5sum.txt" title="md5sum.txt">md5sum.txt</a></td><td>203 B</td><td>2019-09-30 13:18</td></tr>
+<tr><td><a href="RT-AC56U_380.57_alpha3-X6.1.trx" title="RT-AC56U_380.57_alpha3-X6.1.trx">RT-AC56U_380.57_alpha3-X6.1.trx</a></td><td>27.0 MiB</td><td>2019-09-30 13:18</td></tr>
+</tbody></table>     </div>
+    </div>
+  </div>
+
+  <footer class="footer navbar">
+    <div class="container">
+      <div class="col text-center text-muted text-small text-nowrap">
+        <small>
+			&copy;<a href="http://fw.koolcenter.com/"><small>KoolCenter 固件下载服务器</small></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://beian.miit.gov.cn/" target="_blank" rel="external nofollow"><small>粤ICP备20024441号</small></a>&nbsp;&nbsp;|&nbsp;&nbsp;固件下载服务器由<a href="https://www.hypo.cn/?from=ksfw" target=_blank><small>海波云Hypo.cn</small></a>强力驱动
+        </small>
+      </div>
+    </div>
+  </footer>
+
+  <script type="text/javascript">
+    generateBreadcrumbs();
+    generateList();
+  </script>
+  <script src="http://fw.koolcenter.com/theme/js/jquery.min.js"></script>
+  <script src="http://fw.koolcenter.com/theme/js/marked.min.js"></script>
+  <script src="http://fw.koolcenter.com/theme/js/prettify.min.js"></script>
+  <script src="http://fw.koolcenter.com/theme/js/editormd.js"></script>
+  <script>var _hmt=_hmt||[];(function(){var hm=document.createElement("script");hm.src="//hm.baidu.com/hm.js?ae541fe145c6e7207330437b3b601ba1";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(hm,s)})();</script>
+  <script type="text/javascript">
+	$(function() {
+		var EditormdView;
+		$.get("README.md", function(markdown) {
+			EditormdView = editormd.markdownToHTML("markdown-view", {
+				markdown        : markdown ,//+ "\r\n" + $("#append-test").text(),
+				//htmlDecode      : true,       // 开启 HTML 标签解析，为了安全性，默认不开启
+				htmlDecode      : "style,script,iframe",  // you can filter tags decode
+				//toc             : false,
+				tocm            : false,    // Using [TOCM]
+				//tocContainer    : "#custom-toc-container", // 自定义 ToC 容器层
+				//gfm             : false,
+				//tocDropdown     : true,
+				// markdownSourceCode : true, // 是否保留 Markdown 源码，即是否删除保存源码的 Textarea 标签
+				emoji           : false,
+				taskList        : false,
+				tex             : false,  // 默认不解析
+				flowChart       : false,  // 默认不解析
+				sequenceDiagram : false,  // 默认不解析
+			});
+			//console.log("返回一个 jQuery 实例 =>", EditormdView);
+			// 获取Markdown源码
+			//console.log(EditormdView.getMarkdown());
+			//alert(EditormdView.getMarkdown());
+		});
+	});
+  </script>
+</body>
+
+</html>
